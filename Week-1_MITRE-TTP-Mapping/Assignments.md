@@ -50,3 +50,10 @@ Each assignment should be organized in its own **separate subfolder**.
 * 🗂️ [Malware Samples & Tools (Terabox)](https://www.terabox.app/sharing/link?surl=6meoltiWK18hoz-6RgqWFQ)
 * 🛡️ [macOS Malware Analysis (PKG Files)](https://www.malwr4n6.com/post/macos-malware-analysis-pkg-files)
 * 🧰 [Microsoft Sysinternals Suite](https://learn.microsoft.com/en-us/sysinternals/)
+
+---
+
+### 🔧🧰 Assignment 6
+
+**Topic:** Research about **LoadOrder** & **ProcFeatures** tools.
+**Objective:** Research, Study, and after using the above tools, make a POC (proof of concept) and upload on your repo.
