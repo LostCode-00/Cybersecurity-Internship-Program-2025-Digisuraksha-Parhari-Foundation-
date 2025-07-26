@@ -57,3 +57,10 @@ Each assignment should be organized in its own **separate subfolder**.
 
 **- Topic:** Research about **LoadOrder** & **Hex2Dec** tools.\
 **- Objective:** Research, Study, and after using the above tools, make a POC (proof of concept) and upload on your repo.
+
+---
+
+### 🧑‍💻 Assignment 7
+**- Topic:** Research on **Malware Analysis**\
+**- Objective:** Malware analysis, work on assigned malware using vm and note its impact on the os, for example its behaviour.
+
