@@ -55,5 +55,5 @@ Each assignment should be organized in its own **separate subfolder**.
 
 ### 🔧🧰 Assignment 6
 
-**- Topic:** Research about **LoadOrder** & **ProcFeatures** tools.\
+**- Topic:** Research about **LoadOrder** & **Hex2Dec** tools.\
 **- Objective:** Research, Study, and after using the above tools, make a POC (proof of concept) and upload on your repo.
